@@ -1,0 +1,188 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #ffffff;
+}
+.nav-link{
+	color: #989898;
+}
+.nav-item{
+	padding: 2px 9px;
+}
+
+/* Hero Section */
+
+.hero{
+	width: 100%;
+	float: left;
+	background: url(../img/heror.jpg) no-repeat;
+	background-size: cover;
+	background-position: center top;
+	text-align: center;
+	color: #ffffff;
+	padding: 150px 0px;
+}
+.hero h1{
+	font-size: 45px;
+    padding: 165px 0px 40px;
+}
+.hero h2{
+	font-size: 33px;
+    padding-bottom: 55px;
+}
+.hero-btn{
+	color: white;
+    background: #99c50a;
+    padding: 31px 40px;
+    border-radius: 12px;
+    font-size: 19px;
+    border-style: none;
+}
+
+/* About Section */
+
+.work{
+	width: 100%;
+	float: left;
+	padding: 100px 0px 20px;
+	text-align: center;
+}
+.work img{
+	margin-bottom: 45px;
+}
+.work-one h1{
+	font-size: 32px;
+}
+.work-one h2{
+	font-size: 32px;
+	padding: 15px 0px 58px;
+}
+.work h6{
+	color: #8c8c8c;
+    font-size: 18px;
+}
+.work p{
+	color: #8c8c8c;
+    font-size: 18px;
+}
+.work-two{
+	padding-bottom: 42px; 
+}
+.work-three{
+	padding-bottom: 120px;
+}
+
+
+/* project Section  */
+
+
+
+
+.project{
+	width: 100%;
+	float: left;
+	text-align: left;
+}
+.project-one{
+	background: #e2f8ff;
+	padding: 86px 0px;
+
+}
+.project-one img{
+	display: block;
+	margin: 0 auto;
+}
+.project-two{
+	background: #e2f8ff;
+	padding: 86px 0px;
+}
+
+.project-two p{
+	font-size: 16px;
+}
+.btn-one{
+	margin: 30px 0px;
+    padding: 16px 28px;
+    background: #26a6d1;
+    border-style: none;
+    border-radius: 9px;
+    color: white;
+}
+.project-three{
+	background: #f5f9eb;
+	padding: 86px 0px;
+
+}
+.project-three img{
+	display: block;
+	margin: 0 auto;
+}
+.project-four{
+	background: #f5f9eb;
+	padding: 86px 0px;
+}
+
+.project-four p{
+	font-size: 16px;
+}
+.btn-two{
+	margin: 30px 0px;
+    padding: 16px 28px;
+    background: #add136;
+    border-style: none;
+    border-radius: 9px;
+    color: white;
+}
+.project-title{
+	padding: 70px 0px 58px;
+}
+.project-title h3{
+	padding-bottom: 30px;
+}
+.project-title p{
+	font-weight: 200;
+}
+.project-btn{
+	padding: 70px 0px 58px;
+
+}
+.btn-three{
+	color: #838383;
+    border-color: #838383;
+    padding: 16px 18px;
+    border-radius: 15px;
+    background: transparent;
+    margin: 46px 1px;
+}
+
+/*  blog section  */
+.blog{
+	width: 100%;
+	float: left;
+	padding: 40px 0px 110px;
+}
+
+/* Find section */
+
+.find{
+	width: 100%;
+	float: left;
+	padding: 20px 0px 40px;
+}
+
+/* footer section */
+
+footer{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+}
+
+footer h5{
+	text-align: center;
+	font-weight: 100;
+	font-size: 14px;
+}
